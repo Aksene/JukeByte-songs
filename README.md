@@ -33,8 +33,6 @@ The application consists of a main page for all the songs present on the server 
 1. ![image](https://user-images.githubusercontent.com/33763067/129624326-60ef1706-b855-4543-926d-5081a7b0a954.png)
 2. ![image](https://user-images.githubusercontent.com/33763067/129624364-6eb86a5c-5328-4db5-997f-ab593cbcddee.png)
 3. ![image](https://user-images.githubusercontent.com/33763067/129624376-d6204fc7-6812-46aa-ab36-5995e6da688c.png)
-4. ![image](https://user-images.githubusercontent.com/33763067/129624392-8e8d1cf2-901c-4dc7-9648-4b0895f9f1b0.png)
-5. ![image](https://user-images.githubusercontent.com/33763067/129624406-e79dcdde-c162-4692-b269-5333a75fa520.png)
 
 
 
